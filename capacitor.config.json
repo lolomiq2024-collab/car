@@ -1,0 +1,9 @@
+{
+  "appId": "com.islamic.carcompanion",
+  "appName": "رفيق الطريق الإسلامي",
+  "webDir": "www",
+  "backgroundColor": "#17294a",
+  "android": {
+    "allowMixedContent": true
+  }
+}
